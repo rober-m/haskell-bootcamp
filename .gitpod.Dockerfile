@@ -6,8 +6,8 @@ RUN sudo curl -sSL https://get.haskellstack.org/ | sh
 
 RUN git clone https://github.com/gibiansky/IHaskell
 
-#WORKDIR /IHaskell
-#
-#RUN pip3 install -r requirements.txt
-#RUN stack install --fast
-#RUN ihaskell install --stack
+WORKDIR /IHaskell
+
+RUN pip3 install -r requirements.txt
+RUN stack install --fast
+RUN ihaskell install --stack
