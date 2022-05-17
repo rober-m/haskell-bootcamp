@@ -10,4 +10,4 @@ WORKDIR /IHaskell
 
 RUN pip3 install -r requirements.txt
 RUN stack install --fast
-RUN ihaskell install --stack
+#RUN ihaskell install --stack
