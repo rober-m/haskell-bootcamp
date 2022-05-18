@@ -15,4 +15,4 @@ Repository containing the lectures and homework of the IOG's Haskell Bootcamp
 
 ## TODO
 
-- Fix: The Haskell extension doesn't detect GHCup and we can' use HLS because of it.
+- Fix: The Haskell extension doesn't detect GHCup and we can't use HLS because of it.
