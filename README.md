@@ -1,7 +1,7 @@
 # HaskellBootcamp
 Repository containing the lectures and homework of the IOG's Haskell Bootcamp
 
-## To view the lessons click on the button below
+## To view the interactive lessons click on the button below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rober-m/haskell-bootcamp/HEAD?labpath=%2Flab%2Flecture-1.ipynb)
 
