@@ -12,3 +12,7 @@ Repository containing the lectures and homework of the IOG's Haskell Bootcamp
 4. Select the branch of the homework you want to complete
 5. Click this button to create a remote dev environment: [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://gitpod.io/#https://github.com/rober-m/haskell-bootcamp)
 6. Follow the instructions inside the app/Main.hs file.
+
+## TODO
+
+- Fix: The Haskell extension doesn't detect GHCup and we can' use HLS because of it.
