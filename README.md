@@ -13,4 +13,4 @@ Repository containing the lectures and homework of the IOG's Haskell Bootcamp
 5. Hit the GitPod button to create a remote dev environment
 6. Follow the instructions inside the app/Main.hs file.
 
-[![GitPod](https://mybinder.org/badge_logo.svg)](https://gitpod.io/#prebuild/https://github.com/rober-m/haskell-bootcamp)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://gitpod.io/#prebuild/https://github.com/rober-m/haskell-bootcamp)
