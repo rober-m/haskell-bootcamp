@@ -56,15 +56,15 @@ Repository containing the lectures and homework of the IOG's Haskell Bootcamp
 ## Repository structure
 
     Haskell-Bootcamp
-    	|	|
-    	|	|---- code
-    	|			|
-    	|			|---- week01 (homework for week 01)
-    	|			|---- week02 (homework for week 02)
-    	|			...
-    	|
-    	|--------- lab <- Lessons in Juptyer notebook format (accessed
-    					  through Binder. See instructions below.)
+        |   |
+        |   |---- code
+        |          |
+        |          |---- week01 (homework for week 01)
+        |          |---- week02 (homework for week 02)
+        |          ...
+        |
+        |--------- lab <- Lessons in Juptyer notebook format (accessed
+                          through Binder. See instructions below.)
 
 Everything else can be safely ignored
 
