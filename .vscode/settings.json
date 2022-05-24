@@ -1,3 +1,4 @@
 {
-  "jupyter.jupyterServerType": "remote"
+  "haskell.manageHLS": "GHCup",
+  "haskell.ghcupExecutablePath": "/home/gitpod/.ghcup/bin/ghcup"
 }
