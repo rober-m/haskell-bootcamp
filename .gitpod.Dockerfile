@@ -8,4 +8,4 @@ RUN sudo curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
 ENV PATH="/home/gitpod/.ghcup/bin:${PATH}"
 
 # Install HLS GHC and Cabal 
-RUN ghcup install ghc cabal hls  
+#RUN ghcup install ghc cabal hls  
