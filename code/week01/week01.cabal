@@ -44,9 +44,6 @@ maintainer:         48034748+rober-m@users.noreply.github.com
 -- copyright:
 -- category:
 
--- Extra files to be distributed with the package, such as examples or a README.
-extra-source-files: CHANGELOG.md
-
 library
     -- Modules exported by the library.
     exposed-modules:  MyLib
