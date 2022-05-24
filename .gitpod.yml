@@ -1,8 +1,5 @@
 image:
     file: .gitpod.Dockerfile
-tasks:
-    - init: |
-          cabal update
 
 vscode:
     extensions:
