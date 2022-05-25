@@ -18,6 +18,7 @@ RUN pip install RISE
 
 # ---- Install Jypyter themes
 RUN pip install jupyterthemes
+RUN jt -t onedork
 
 # ---- Add non-root user
 #RUN adduser --disabled-password \
