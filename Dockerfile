@@ -18,7 +18,7 @@ RUN pip install RISE
 
 # ---- Install Jypyter themes
 RUN pip install jupyterthemes
-RUN jt -t gruvboxd -T -N -kl
+#RUN jt -t gruvboxd -T -N -kl
 
 # ---- Add non-root user
 #RUN adduser --disabled-password \
