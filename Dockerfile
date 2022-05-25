@@ -18,10 +18,7 @@ USER root
 RUN pip install jupyter_client
 
 # ---- Install RISE extension
-RUN cd ~/src/git/ && \
-    git clone https://github.com/damianavila/RISE && \
-    cd ~/src/git/RISE && \
-    python setup.py install
+RUN pip install RISE
 
 
 
