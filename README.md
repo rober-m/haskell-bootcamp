@@ -73,7 +73,7 @@ Everything else can be safely ignored
 
 ## To view the interactive lessons click on the button below
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rober-m/haskell-bootcamp/HEAD?labpath=%2Flab%2F%2FWeek01%2F1.1-Introduction-to-haskell.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rober-m/haskell-bootcamp/HEAD?labpath=%2Flessons%2F%2FWeek01%2F1.1-Introduction-to-haskell.ipynb)
 
 ## To do the homework
 
