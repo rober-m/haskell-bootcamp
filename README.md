@@ -63,7 +63,7 @@ Repository containing the lectures and homework of the IOG's Haskell Bootcamp
         |          |---- Week02 (homework for week 02)
         |          ...
         |
-        |-------- lab <- Lessons in Juptyer notebook format (accessed
+        |-------- lessons <- Lessons in Juptyer notebook format (accessed
                    |      through Binder. See instructions below.)
                    |
                    |---- Week01 (lessons for week 01)
