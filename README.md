@@ -79,6 +79,6 @@ Everything else can be safely ignored
 
 1. Clone this repository.
 2. Create a [GitPod](https://www.gitpod.io/) account.
-3. Select the `WeekXX` folder insie `code` folder with the homework you want to complete.
+3. Select the `code/WeekXX` folder with the homework you want to complete.
 4. Click this button to create a remote dev environment: [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://gitpod.io/#https://github.com/rober-m/haskell-bootcamp)
 5. Follow the instructions inside the app/Main.hs file.
