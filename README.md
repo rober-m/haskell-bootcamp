@@ -63,7 +63,7 @@ Repository containing the lectures and homework of the IOG's Haskell Bootcamp
         |          |---- Week02 (homework for week 02)
         |          ...
         |
-        |-------- lab <- Lessons in Juptyer notebook format (accessed
+        |-------- lessons <- Lessons in Juptyer notebook format (accessed
                    |      through Binder. See instructions below.)
                    |
                    |---- Week01 (lessons for week 01)
@@ -77,8 +77,8 @@ Everything else can be safely ignored
 
 ## To do the homework
 
-1. Clone this repository
-2. Create a [GitPod](https://www.gitpod.io/) account
-3. Select the branch of the repo with the homework you want to complete
+1. Clone this repository.
+2. Create a [GitPod](https://www.gitpod.io/) account.
+3. Select the `code/WeekXX` folder with the homework you want to complete.
 4. Click this button to create a remote dev environment: [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://gitpod.io/#https://github.com/rober-m/haskell-bootcamp)
 5. Follow the instructions inside the app/Main.hs file.
